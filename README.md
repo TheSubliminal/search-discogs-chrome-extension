@@ -1,2 +1,2 @@
 # search-discogs-chrome-extension
-Search Discogs Chrome extension
+Chrome extension that enables you to search on [Discogs](https://www.discogs.com/) by text selected on a page
